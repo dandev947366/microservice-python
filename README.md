@@ -1,2 +1,2 @@
 # microservice-python
- Simple microservice with FastAPI, Redis
+ Microservice with FastAPI, Redis, Docker
