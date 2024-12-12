@@ -9,3 +9,4 @@ def test_get():
     res = client.get(f"/v1/resource/resource/{expected}")
     assert expected in res.json()
 
+
